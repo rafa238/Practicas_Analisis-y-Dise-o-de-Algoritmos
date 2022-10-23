@@ -1,0 +1,22 @@
+#!/bin/bash
+gcc insertion.c tiempo.c -o insercion
+./insercion 100 <numeros10millones.txt >> insercion.txt
+./insercion 1000 <numeros10millones.txt >> insercion.txt
+./insercion 5000 <numeros10millones.txt >> insercion.txt
+./insercion 10000 <numeros10millones.txt >> insercion.txt
+./insercion 20000 <numeros10millones.txt >> insercion.txt
+./insercion 30000 <numeros10millones.txt >> insercion.txt
+./insercion 40000 <numeros10millones.txt >> insercion.txt
+./insercion 50000 <numeros10millones.txt >> insercion.txt
+./insercion 60000 <numeros10millones.txt >> insercion.txt
+./insercion 70000 <numeros10millones.txt >> insercion.txt
+./insercion 80000 <numeros10millones.txt >> insercion.txt
+./insercion 90000 <numeros10millones.txt >> insercion.txt
+./insercion 100000 <numeros10millones.txt >> insercion.txt
+./insercion 150000 <numeros10millones.txt >> insercion.txt
+./insercion 200000 <numeros10millones.txt >> insercion.txt
+./insercion 250000 <numeros10millones.txt >> insercion.txt 
+./insercion 300000 <numeros10millones.txt >> insercion.txt 
+./insercion 400000 <numeros10millones.txt >> insercion.txt 
+./insercion 500000 <numeros10millones.txt >> insercion.txt 
+./insercion 600000 <numeros10millones.txt >> insercion.txt 
