@@ -13,8 +13,7 @@ Ejecución del programa: "nombre ejecutable " n(numeros a ordenar)  >"nombre del
 #include <string.h>
 #include "tiempo.h"
 
-int main(int argc, char *argv[])
-{
+int main(int argc, char *argv[]){
 
     double utime0, stime0, wtime0, utime1, stime1, wtime1;
     //Declaracion de las variables para medir el tiempo
@@ -53,15 +52,15 @@ int main(int argc, char *argv[])
     uswtime(&utime0, &stime0, &wtime0);
 
     //Algoritmo de ordenamiento INSERCION
-    for (i = 0; i <= n - 1; i++)
+    for (i = 0; i <= n - 1; i++) //la posicion inicial del array hasta n-1
     {
-        j = i;
-        temp = A[i];
+        j = i; //la posicion de nuestra carta
+        temp = A[i];    //el valor de nuestra carta
         //Seccion de recorrido de numeros en caso de que el termino anterior sea mayor
-        while ((j > 0) && (temp < A[j - 1]))
+        while ((j > 0) && (temp < A[j - 1])) //vamos a recorrer hasta encontrar un valor menor o llegar al principio del array
         {
-            A[j] = A[j - 1];
-            j--;
+            A[j] = A[j - 1]; //cambiamos el elemento de enfrente hacia atras 
+            j--;//nos recorremos
         }
         //Asignacion del lugar que ocupara el numero
         A[j] = temp;
