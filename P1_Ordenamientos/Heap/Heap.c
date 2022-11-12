@@ -15,6 +15,11 @@ HEAP buildHeap(int size){
     return h;
 }
 
+
+/*
+    Funcion heapify que se encarga de comparar un nodo padre con sus hijo izquierdos y derechos
+    para poder hacer el swap en caso de asi lo requiera
+*/
 void heapify(HEAP h, int i){
     int size = h->size;
     int largest = i;
@@ -35,6 +40,10 @@ void heapify(HEAP h, int i){
     }
 }
 
+/*
+Se encarga de agregar elementos a nuestra estructura de datos y hacer los cambio que se requieran
+*/
+
 void push(HEAP h, int newElem){
     //si nuestra heap no tiene elementos, ponemos el nuevo elemento al principio
     if (h->size == 0){
@@ -49,6 +58,10 @@ void push(HEAP h, int newElem){
     }
 }
 
+/*
+Se encarga de eliminar el elemento raiz de nuestro heap para obtener el minimo/maximo elemento
+de nuestro Arreglo
+*/
 int pop(HEAP h){
     int root = h->heaparray[0]; //obtenemos el primero de la lista (mas grande)
     swap(&h->heaparray[0], &h->heaparray[h->size - 1]); //hacemos un swap del ultimo con el primero
