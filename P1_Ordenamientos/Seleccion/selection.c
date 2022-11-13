@@ -52,7 +52,7 @@ int main(int argc, char *argv[])
 		for (i = k + 1; i < n; i++)
 		{
 			//Compara si el ultimo valor no cambiada a la izquierda de nuestro arreglo es mayor al de los siguientes para encontrar el valor minimo
-			if (A[i] < A[p])
+			if (A[p] > A[i])
 				p = i; //guarda el valor minimo de la lista
 		}
 

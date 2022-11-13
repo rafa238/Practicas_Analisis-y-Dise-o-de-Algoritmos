@@ -70,8 +70,7 @@ void merge(int *A, int p, int q, int r)
 /*Función mergeSort
 Recibe el arreglo de enteros donde se almacenarán los numeros, un entero p (indice del inicio del arreglo) y un entero r (indice del final del arreglo)
 */
-void mergeSort(int *A, int p, int r)
-{
+void mergeSort(int *A, int p, int r){
     int q;
     if (p < r)
     {
