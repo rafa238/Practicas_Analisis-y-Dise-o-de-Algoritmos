@@ -1,5 +1,7 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
+#include "tiempo.h"
 #include <math.h>
 #define min
   
@@ -54,7 +56,7 @@ int binarySearch(int arr[], int l, int r, int x){
 //*****************************************************************
 int main(int narg, char **varg)
 {
-    int n, num, buscar, *A;                                //Variables auxiliares
+    int n, target, *A;                                //Variables auxiliares
     double utime0, stime0, wtime0, utime1, stime1, wtime1; //Variables para medicion de tiempos.
 
     //Si no se introducen exactamente 3 argumentos (Cadena de ejecucion, numero a buscar y cadena=n)
@@ -64,7 +66,7 @@ int main(int narg, char **varg)
         exit(1);
     }
 
-    num = atoi(varg[1]); //ELEMENTO A BUSCAR
+    target = atoi(varg[1]); //ELEMENTO A BUSCAR
     n = atoi(varg[2]);   //TAMAÃ‘O DEL PROBLEMA
 
     //Reservar memoria
@@ -81,16 +83,16 @@ int main(int narg, char **varg)
     uswtime(&utime0, &stime0, &wtime0);
     //******************************************************************
     //Algoritmo de Busqueda Exponencial
-    exponentialSearch(A, n, num);
-
+    int exp = exponentialSearch(A, n, target);
+    printf("El numero %d esta en el indice %d\n", target, exp);
     //******************************************************************
     //Evaluar los tiempos de ejecucion
     //******************************************************************
     uswtime(&utime1, &stime1, &wtime1);
     //(buscar == -1) ? printf("Element is not present in array") : printf("Element is present at index %d", buscar);
 
-    printf("%d---------------------------------------------------------------------------------\n", n);
-    printf("%d---------------------------------------------------------------------------------", num);
+    printf("---------------------------------------------------------------------------------\n");
+    printf("---------------------------------------------------------------------------------");
 
     //CÃ¡lculo del tiempo de ejecucion del programa
     printf("\n");

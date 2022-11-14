@@ -1,11 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
+#include <sys/resource.h>
+#include <sys/time.h>
+#include "tiempo.h"
 
+//Estructura que va a llevar la informacion a los hilos
 typedef struct{
     int target;
     int tam;
     int *arr;
+    int noThread;
 } Data;
 // Helper que devuelve el minimo de 2 elementos
 int min(int x, int y) { return (x <= y) ? x : y; }
@@ -38,6 +43,7 @@ int fibonacciSearch(int arr[], int x, int n){
         int i = min(offset + fibMMm2, n - 1);
  
         /*Si el target es mayor, cortamos nuestro arreglo y buscamos en el lado derecho */
+        //printf(" elem %d ", arr[i]);
         if (arr[i] < x) {
             fibM = fibMMm1;
             fibMMm1 = fibMMm2;
@@ -51,12 +57,14 @@ int fibonacciSearch(int arr[], int x, int n){
             fibMMm2 = fibM - fibMMm1;
         }
         /* Retornamos el indice del elemento encontrado */
-        else return i;
+        else {
+            printf("encontrado %d", i);
+            return i;
+        }
     }
  
     /* Esta condicion entra cuando hay 3 elementos en el arreglo */
     if (fibMMm1 && arr[offset + 1] == x) {
-        printf("entro"); 
         return offset + 1;
     }
  
@@ -65,8 +73,10 @@ int fibonacciSearch(int arr[], int x, int n){
 }
 
 void* FSthread(void* tdata){
-    Data* elems = (Data*)tdata;
-    fibonacciSearch(elems->arr, elems->target, elems->tam);
+    Data *elems = (Data*)tdata;
+    
+    int res = fibonacciSearch(elems->arr, elems->target, elems->tam);
+    printf("\nThread no %d has found %d at the index: %d \n",elems->noThread, elems->target,res);
 }
 
 
@@ -82,27 +92,42 @@ int main(int narg, char **varg){
         printf("\nIntroduce una n y tu elemento a buscar");
         exit(1);
     }
-    target = atoi(varg[1]); //ELEMENTO A BUSCAR
-    n = atoi(varg[2]);   //TAMAÑO DEL PROBLEMA
+    
+    n = atoi(varg[1]); //ELEMENTO A BUSCAR
+    target = atoi(varg[2]);   //TAMAÑO DEL PROBLEMA
+    
     
     //Reservar Memoria
-    A = malloc(sizeof(int) * n);
+    
     int middle = n/2;
+    A = malloc(sizeof(int) * middle);
+    B = malloc(sizeof(int) * n-middle);
     Data *dt1 = (Data*) malloc(sizeof(Data));
     Data *dt2 = (Data*) malloc(sizeof(Data));
+    if(dt1 == NULL || dt2 == NULL){
+        printf("NO hay memoria");
+    }
+    
     dt1->target = dt2->target = target;
+    dt1->noThread = 1;
+    dt2->noThread = 2;
     dt1->tam = middle; 
     dt2->tam = n-middle;
     //Ciclo para leer las entradas
     for (int i = 0, j=0; i < n; i++){
-        if(middle--){
+        if(middle!=0){
             scanf("%d", &A[i]);
+            //printf("%d ", A[i]);
+            middle--;
         } else {
-            scanf("%d", &B[j++]);
+            scanf("%d", &B[j]);
+            //printf("%d ", B[j]);
+            j++;
         }
     }
     dt1->arr = A;
     dt2->arr = B;
+    
     //inicializamos los hilos a ejecutar
     pthread_t proceso1, proceso2;
     pthread_create(&proceso1, NULL, &FSthread, dt1);
@@ -110,13 +135,13 @@ int main(int narg, char **varg){
     //Iniciar el conteo del tiempo para las evaluaciones de rendimiento
     uswtime(&utime0, &stime0, &wtime0);
     //Algoritmo de Busqueda Fibonacci
-    itarget = busquedaFibonacci(A, target, n);
+    pthread_join(proceso1, NULL);
+    pthread_join(proceso2, NULL);
+
     uswtime(&utime1, &stime1, &wtime1);
     //Finaliza el conteo de tiempo
-
-    //(buscar == -1) ? printf("Element is not present in array") : printf("Element is present at index %d", buscar);
-    printf("%d---------------------------------------------------------------------------------\n", n);
-    printf("%d---------------------------------------------------------------------------------", target);
+    printf("--------------------------------------------------------------------------------\n" );
+    printf("---------------------------------------------------------------------------------" );
 
     //Calculo del tiempo de ejecucion del programa
     printf("\n");
@@ -130,5 +155,6 @@ int main(int narg, char **varg){
     // //******************************************************************
 
     //Terminar programa normalmente
+    
     exit(0);
 }

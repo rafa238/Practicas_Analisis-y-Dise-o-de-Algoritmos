@@ -1,5 +1,6 @@
 #include <stdio.h>
- 
+#include <stdlib.h>
+#include "tiempo.h"
 // Helper que devuelve el minimo de 2 elementos
 int min(int x, int y) { return (x <= y) ? x : y; }
  
@@ -10,7 +11,7 @@ int min(int x, int y) { return (x <= y) ? x : y; }
 * ya delimitado
 */
 
-int busquedaFibonacci(int arr[], int x, int n)
+int fibonacciSearch(int arr[], int x, int n)
 {
     /* Inicializamos los numero de fibonacci */
     int fibMMm2 = 0; // (m-2)'simo 
@@ -64,7 +65,7 @@ int busquedaFibonacci(int arr[], int x, int n)
 //PROGRAMA PRINCIPAL
 //*****************************************************************
 int main(int narg, char **varg){
-    int n, num, buscar, *A;                                //Varibles auxiliares
+    int n, ans ,target, *A;                                //Varibles auxiliares
     double utime0, stime0, wtime0, utime1, stime1, wtime1; //Variables para la mediciÃ³n del tiempo
 
     //Si no se introducen exactamente 3 argumentos (Cadena de ejecucion, numero a buscar y cadena=n)
@@ -73,8 +74,9 @@ int main(int narg, char **varg){
         printf("\nIntroduce una n y tu elemento a buscar");
         exit(1);
     }
-    num = atoi(varg[1]); //ELEMENTO A BUSCAR
-    n = atoi(varg[2]);   //TAMAÃ‘O DEL PROBLEMA
+    
+    n = atoi(varg[1]); //tamaño
+    target = atoi(varg[2]);   //numero a buscar
 
     //Reservar Memoria
     A = malloc(sizeof(int) * n);
@@ -88,13 +90,14 @@ int main(int narg, char **varg){
     //Iniciar el conteo del tiempo para las evaluaciones de rendimiento
     uswtime(&utime0, &stime0, &wtime0);
     //Algoritmo de Busqueda Fibonacci
-    buscar = busquedaFibonacci(A, num, n);
+    ans = fibonacciSearch(A, target, n);
+    printf("El indice del elemento %d esta en el indice %d \n", target, ans);
     uswtime(&utime1, &stime1, &wtime1);
     //Finaliza el conteo de tiempo
 
     //(buscar == -1) ? printf("Element is not present in array") : printf("Element is present at index %d", buscar);
-    printf("%d---------------------------------------------------------------------------------\n", n);
-    printf("%d---------------------------------------------------------------------------------", num);
+    printf("---------------------------------------------------------------------------------\n");
+    printf("---------------------------------------------------------------------------------");
 
     //Calculo del tiempo de ejecucion del programa
     printf("\n");
