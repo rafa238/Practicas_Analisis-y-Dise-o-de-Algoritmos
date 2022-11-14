@@ -1,0 +1,22 @@
+#!/bin/bash
+gcc busquedalineal.c tiempo.c -o busquedalineal
+./busquedalineal 100 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 1000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 5000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 10000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 20000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 30000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 40000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 50000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 60000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 70000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 80000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 90000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 100000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 150000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 200000 <numeros10millones.txt >> busquedalineal.txt
+./busquedalineal 250000 <numeros10millones.txt >> busquedalineal.txt 
+./busquedalineal 300000 <numeros10millones.txt >> busquedalineal.txt 
+./busquedalineal 400000 <numeros10millones.txt >> busquedalineal.txt 
+./busquedalineal 500000 <numeros10millones.txt >> busquedalineal.txt 
+./busquedalineal 600000 <numeros10millones.txt >> busquedalineal.txt 
