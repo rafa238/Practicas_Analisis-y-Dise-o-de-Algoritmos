@@ -9,10 +9,10 @@
 
 //declaramos la estructura que va a llevar la informacion a los hilos
 typedef struct{
-    int target;
-    int tam;
-    int *arr;
-    int noThread;
+    int target; //el numero a buscar
+    int tam;    //tamaño del arreglo partido
+    int *arr;   // arreglo
+    int noThread;//numero de hilo
 } Data;
 
 int binarySearch(int arr[], int, int, int);

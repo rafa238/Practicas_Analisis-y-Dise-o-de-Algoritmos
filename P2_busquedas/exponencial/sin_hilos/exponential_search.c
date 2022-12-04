@@ -6,7 +6,6 @@
 #define min
   
 int binarySearch(int arr[], int, int, int);
-  
 /*
 * Esta funcion se encarga de delimitar el rango de manera exponencial, hasta que encuentra 
 * un numero mayor a nuestro target y posteriormente hace una busqueda binaria en dicho rango
