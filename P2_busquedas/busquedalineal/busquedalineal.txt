@@ -1,0 +1,1080 @@
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000240803 s
+user (Tiempo de procesamiento en CPU) 0.0000350000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   145.3471683168 % 
+
+
+real (Tiempo total)  2.4080276489e-05 s
+user (Tiempo de procesamiento en CPU) 3.5000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   145.3471683168 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000238419 s
+user (Tiempo de procesamiento en CPU) 0.0000370000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   155.1892480000 % 
+
+
+real (Tiempo total)  2.3841857910e-05 s
+user (Tiempo de procesamiento en CPU) 3.7000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   155.1892480000 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000410080 s
+user (Tiempo de procesamiento en CPU) 0.0000490000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   119.4888930233 % 
+
+
+real (Tiempo total)  4.1007995605e-05 s
+user (Tiempo de procesamiento en CPU) 4.9000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   119.4888930233 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000197887 s
+user (Tiempo de procesamiento en CPU) 0.0000290000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   146.5479710843 % 
+
+
+real (Tiempo total)  1.9788742065e-05 s
+user (Tiempo de procesamiento en CPU) 2.9000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   146.5479710843 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000200272 s
+user (Tiempo de procesamiento en CPU) 0.0000230000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   114.8440380952 % 
+
+
+real (Tiempo total)  2.0027160645e-05 s
+user (Tiempo de procesamiento en CPU) 2.3000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   114.8440380952 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000431538 s
+user (Tiempo de procesamiento en CPU) 0.0000500000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   115.8647513812 % 
+
+
+real (Tiempo total)  4.3153762817e-05 s
+user (Tiempo de procesamiento en CPU) 5.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   115.8647513812 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000400543 s
+user (Tiempo de procesamiento en CPU) 0.0000470000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   117.3406476190 % 
+
+
+real (Tiempo total)  4.0054321289e-05 s
+user (Tiempo de procesamiento en CPU) 4.7000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   117.3406476190 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000200272 s
+user (Tiempo de procesamiento en CPU) 0.0000230000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   114.8440380952 % 
+
+
+real (Tiempo total)  2.0027160645e-05 s
+user (Tiempo de procesamiento en CPU) 2.3000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   114.8440380952 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000181198 s
+user (Tiempo de procesamiento en CPU) 0.0000220000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   121.4140631579 % 
+
+
+real (Tiempo total)  1.8119812012e-05 s
+user (Tiempo de procesamiento en CPU) 2.2000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   121.4140631579 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000178814 s
+user (Tiempo de procesamiento en CPU) 0.0000270000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   150.9949440000 % 
+
+
+real (Tiempo total)  1.7881393433e-05 s
+user (Tiempo de procesamiento en CPU) 2.7000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   150.9949440000 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000240803 s
+user (Tiempo de procesamiento en CPU) 0.0000300000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   124.5832871287 % 
+
+
+real (Tiempo total)  2.4080276489e-05 s
+user (Tiempo de procesamiento en CPU) 3.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   124.5832871287 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000190735 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0000230000 s
+CPU/Wall   120.5862400000 % 
+
+
+real (Tiempo total)  1.9073486328e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  2.3000000000e-05 s
+CPU/Wall   120.5862400000 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000219345 s
+user (Tiempo de procesamiento en CPU) 0.0000270000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   123.0937043478 % 
+
+
+real (Tiempo total)  2.1934509277e-05 s
+user (Tiempo de procesamiento en CPU) 2.7000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   123.0937043478 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000200272 s
+user (Tiempo de procesamiento en CPU) 0.0000240000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   119.8372571429 % 
+
+
+real (Tiempo total)  2.0027160645e-05 s
+user (Tiempo de procesamiento en CPU) 2.4000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   119.8372571429 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000269413 s
+user (Tiempo de procesamiento en CPU) 0.0000370000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   137.3356176991 % 
+
+
+real (Tiempo total)  2.6941299438e-05 s
+user (Tiempo de procesamiento en CPU) 3.7000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   137.3356176991 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000228882 s
+user (Tiempo de procesamiento en CPU) 0.0000320000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   139.8101333333 % 
+
+
+real (Tiempo total)  2.2888183594e-05 s
+user (Tiempo de procesamiento en CPU) 3.2000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   139.8101333333 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000491142 s
+user (Tiempo de procesamiento en CPU) 0.0000640000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   130.3084737864 % 
+
+
+real (Tiempo total)  4.9114227295e-05 s
+user (Tiempo de procesamiento en CPU) 6.4000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   130.3084737864 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000410080 s
+user (Tiempo de procesamiento en CPU) 0.0000600000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   146.3129302326 % 
+
+
+real (Tiempo total)  4.1007995605e-05 s
+user (Tiempo de procesamiento en CPU) 6.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   146.3129302326 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000219345 s
+user (Tiempo de procesamiento en CPU) 0.0000300000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   136.7707826087 % 
+
+
+real (Tiempo total)  2.1934509277e-05 s
+user (Tiempo de procesamiento en CPU) 3.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   136.7707826087 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000228882 s
+user (Tiempo de procesamiento en CPU) 0.0000300000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   131.0720000000 % 
+
+
+real (Tiempo total)  2.2888183594e-05 s
+user (Tiempo de procesamiento en CPU) 3.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   131.0720000000 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000610352 s
+user (Tiempo de procesamiento en CPU) 0.0000770000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   126.1568000000 % 
+
+
+real (Tiempo total)  6.1035156250e-05 s
+user (Tiempo de procesamiento en CPU) 7.7000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   126.1568000000 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000739098 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0000950000 s
+CPU/Wall   128.5351225806 % 
+
+
+real (Tiempo total)  7.3909759521e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  9.5000000000e-05 s
+CPU/Wall   128.5351225806 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000588894 s
+user (Tiempo de procesamiento en CPU) 0.0000810000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   137.5460016194 % 
+
+
+real (Tiempo total)  5.8889389038e-05 s
+user (Tiempo de procesamiento en CPU) 8.1000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   137.5460016194 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000338554 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0000470000 s
+CPU/Wall   138.8255549296 % 
+
+
+real (Tiempo total)  3.3855438232e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  4.7000000000e-05 s
+CPU/Wall   138.8255549296 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000419617 s
+user (Tiempo de procesamiento en CPU) 0.0000560000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   133.4551272727 % 
+
+
+real (Tiempo total)  4.1961669922e-05 s
+user (Tiempo de procesamiento en CPU) 5.6000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   133.4551272727 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000250340 s
+user (Tiempo de procesamiento en CPU) 0.0000350000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   139.8101333333 % 
+
+
+real (Tiempo total)  2.5033950806e-05 s
+user (Tiempo de procesamiento en CPU) 3.5000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   139.8101333333 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000240803 s
+user (Tiempo de procesamiento en CPU) 0.0000310000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   128.7360633663 % 
+
+
+real (Tiempo total)  2.4080276489e-05 s
+user (Tiempo de procesamiento en CPU) 3.1000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   128.7360633663 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000259876 s
+user (Tiempo de procesamiento en CPU) 0.0000350000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   134.6794862385 % 
+
+
+real (Tiempo total)  2.5987625122e-05 s
+user (Tiempo de procesamiento en CPU) 3.5000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   134.6794862385 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000350475 s
+user (Tiempo de procesamiento en CPU) 0.0000490000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   139.8101333333 % 
+
+
+real (Tiempo total)  3.5047531128e-05 s
+user (Tiempo de procesamiento en CPU) 4.9000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   139.8101333333 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000588894 s
+user (Tiempo de procesamiento en CPU) 0.0000710000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   120.5650137652 % 
+
+
+real (Tiempo total)  5.8889389038e-05 s
+user (Tiempo de procesamiento en CPU) 7.1000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   120.5650137652 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000350475 s
+user (Tiempo de procesamiento en CPU) 0.0000500000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   142.6634013605 % 
+
+
+real (Tiempo total)  3.5047531128e-05 s
+user (Tiempo de procesamiento en CPU) 5.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   142.6634013605 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000360012 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0000540000 s
+CPU/Wall   149.9949774834 % 
+
+
+real (Tiempo total)  3.6001205444e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  5.4000000000e-05 s
+CPU/Wall   149.9949774834 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000340939 s
+user (Tiempo de procesamiento en CPU) 0.0000460000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   134.9216671329 % 
+
+
+real (Tiempo total)  3.4093856812e-05 s
+user (Tiempo de procesamiento en CPU) 4.6000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   134.9216671329 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000450611 s
+user (Tiempo de procesamiento en CPU) 0.0000630000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   139.8101333333 % 
+
+
+real (Tiempo total)  4.5061111450e-05 s
+user (Tiempo de procesamiento en CPU) 6.3000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   139.8101333333 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000491142 s
+user (Tiempo de procesamiento en CPU) 0.0000610000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   124.2002640777 % 
+
+
+real (Tiempo total)  4.9114227295e-05 s
+user (Tiempo de procesamiento en CPU) 6.1000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   124.2002640777 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000431538 s
+user (Tiempo de procesamiento en CPU) 0.0000580000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   134.4031116022 % 
+
+
+real (Tiempo total)  4.3153762817e-05 s
+user (Tiempo de procesamiento en CPU) 5.8000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   134.4031116022 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000400543 s
+user (Tiempo de procesamiento en CPU) 0.0000550000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   137.3135238095 % 
+
+
+real (Tiempo total)  4.0054321289e-05 s
+user (Tiempo de procesamiento en CPU) 5.5000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   137.3135238095 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000529289 s
+user (Tiempo de procesamiento en CPU) 0.0000710000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   134.1421549550 % 
+
+
+real (Tiempo total)  5.2928924561e-05 s
+user (Tiempo de procesamiento en CPU) 7.1000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   134.1421549550 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000519753 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0000740000 s
+CPU/Wall   142.3754568807 % 
+
+
+real (Tiempo total)  5.1975250244e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  7.4000000000e-05 s
+CPU/Wall   142.3754568807 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000400543 s
+user (Tiempo de procesamiento en CPU) 0.0000520000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   129.8236952381 % 
+
+
+real (Tiempo total)  4.0054321289e-05 s
+user (Tiempo de procesamiento en CPU) 5.2000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   129.8236952381 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000569820 s
+user (Tiempo de procesamiento en CPU) 0.0000790000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   138.6401740586 % 
+
+
+real (Tiempo total)  5.6982040405e-05 s
+user (Tiempo de procesamiento en CPU) 7.9000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   138.6401740586 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000500679 s
+user (Tiempo de procesamiento en CPU) 0.0000620000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   123.8318323810 % 
+
+
+real (Tiempo total)  5.0067901611e-05 s
+user (Tiempo de procesamiento en CPU) 6.2000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   123.8318323810 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000491142 s
+user (Tiempo de procesamiento en CPU) 0.0000610000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   124.2002640777 % 
+
+
+real (Tiempo total)  4.9114227295e-05 s
+user (Tiempo de procesamiento en CPU) 6.1000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   124.2002640777 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000491142 s
+user (Tiempo de procesamiento en CPU) 0.0000600000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   122.1641941748 % 
+
+
+real (Tiempo total)  4.9114227295e-05 s
+user (Tiempo de procesamiento en CPU) 6.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   122.1641941748 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000488758 s
+user (Tiempo de procesamiento en CPU) 0.0000600000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   122.7601170732 % 
+
+
+real (Tiempo total)  4.8875808716e-05 s
+user (Tiempo de procesamiento en CPU) 6.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   122.7601170732 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000488758 s
+user (Tiempo de procesamiento en CPU) 0.0000610000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   124.8061190244 % 
+
+
+real (Tiempo total)  4.8875808716e-05 s
+user (Tiempo de procesamiento en CPU) 6.1000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   124.8061190244 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000500679 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0000610000 s
+CPU/Wall   121.8345447619 % 
+
+
+real (Tiempo total)  5.0067901611e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  6.1000000000e-05 s
+CPU/Wall   121.8345447619 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000491142 s
+user (Tiempo de procesamiento en CPU) 0.0000600000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   122.1641941748 % 
+
+
+real (Tiempo total)  4.9114227295e-05 s
+user (Tiempo de procesamiento en CPU) 6.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   122.1641941748 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000581741 s
+user (Tiempo de procesamiento en CPU) 0.0000740000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   127.2043016393 % 
+
+
+real (Tiempo total)  5.8174133301e-05 s
+user (Tiempo de procesamiento en CPU) 7.4000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   127.2043016393 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000569820 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0000720000 s
+CPU/Wall   126.3556016736 % 
+
+
+real (Tiempo total)  5.6982040405e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  7.2000000000e-05 s
+CPU/Wall   126.3556016736 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000519753 s
+user (Tiempo de procesamiento en CPU) 0.0000610000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   117.3635522936 % 
+
+
+real (Tiempo total)  5.1975250244e-05 s
+user (Tiempo de procesamiento en CPU) 6.1000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   117.3635522936 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000519753 s
+user (Tiempo de procesamiento en CPU) 0.0000590000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   113.5155669725 % 
+
+
+real (Tiempo total)  5.1975250244e-05 s
+user (Tiempo de procesamiento en CPU) 5.9000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   113.5155669725 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000510216 s
+user (Tiempo de procesamiento en CPU) 0.0000650000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   127.3970841121 % 
+
+
+real (Tiempo total)  5.1021575928e-05 s
+user (Tiempo de procesamiento en CPU) 6.5000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   127.3970841121 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000510216 s
+user (Tiempo de procesamiento en CPU) 0.0000630000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   123.4771738318 % 
+
+
+real (Tiempo total)  5.1021575928e-05 s
+user (Tiempo de procesamiento en CPU) 6.3000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   123.4771738318 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000519753 s
+user (Tiempo de procesamiento en CPU) 0.0000580000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   111.5915743119 % 
+
+
+real (Tiempo total)  5.1975250244e-05 s
+user (Tiempo de procesamiento en CPU) 5.8000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   111.5915743119 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000441074 s
+user (Tiempo de procesamiento en CPU) 0.0000560000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   126.9627156757 % 
+
+
+real (Tiempo total)  4.4107437134e-05 s
+user (Tiempo de procesamiento en CPU) 5.6000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   126.9627156757 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000591278 s
+user (Tiempo de procesamiento en CPU) 0.0000760000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   128.5351225806 % 
+
+
+real (Tiempo total)  5.9127807617e-05 s
+user (Tiempo de procesamiento en CPU) 7.6000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   128.5351225806 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000519753 s
+user (Tiempo de procesamiento en CPU) 0.0000610000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   117.3635522936 % 
+
+
+real (Tiempo total)  5.1975250244e-05 s
+user (Tiempo de procesamiento en CPU) 6.1000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   117.3635522936 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000519753 s
+user (Tiempo de procesamiento en CPU) 0.0000630000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   121.2115376147 % 
+
+
+real (Tiempo total)  5.1975250244e-05 s
+user (Tiempo de procesamiento en CPU) 6.3000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   121.2115376147 % 
+
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Ingresa el numero 
+Dame el numero que deseas encontrar 
+El numero no existe en el arreglo
+real (Tiempo total)  0.0000209808 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0000250000 s
+CPU/Wall   119.1563636364 % 
+
+
+real (Tiempo total)  2.0980834961e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  2.5000000000e-05 s
+CPU/Wall   119.1563636364 % 
+
