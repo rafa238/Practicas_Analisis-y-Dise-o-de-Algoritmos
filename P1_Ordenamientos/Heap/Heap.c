@@ -26,11 +26,11 @@ void heapify(HEAP h, int i){
     int l = 2 * i + 1; //hijo izquierdo
     int r = 2 * i + 2; //hijo derecho
     //comparamos si el hijo izquierdo o derecho es mas grande
-    if (l < size && h->heaparray[l] > h->heaparray[largest]){
+    if (l < size && h->heaparray[l] < h->heaparray[largest]){
         
         largest = l;
     }
-    if (r < size && h->heaparray[r] > h->heaparray[largest]){
+    if (r < size && h->heaparray[r] < h->heaparray[largest]){
         largest = r;
     }
     //si el hijo izquierdo o derecho es mas grande, hacemos un swap

@@ -22,14 +22,14 @@ void printArray(int array[], int size){
     printf("\n");
 }
 
-/*int main(){
+int main(){
     int n=11;
-    int A[] = { 0, 1 ,2 ,3, 4,5 ,6,7,8,9,10};
+    int A[] = { 1000, 1 ,22 ,3, 44,5 ,6,7,8,9,10};
     heapSort(A, n);
     printArray(A, n);
     return 0;
-}*/
-
+}
+/*
 int main(int narg, char **varg){
     //gcc Heap.c Heap.h heapSort.c tiempo.c -o heap
     //Variables que ocupara por nuestro algoritmo
@@ -86,4 +86,4 @@ int main(int narg, char **varg){
     //Terminar programa normalmente
     
     exit(0);
-}
+}*/
